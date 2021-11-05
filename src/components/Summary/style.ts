@@ -4,7 +4,7 @@ export const Container = styled.div`
   display: grid;
   gap: 2rem;
   margin-top: -7.3rem;
-  padding: 0 3rem ;
+  padding: 0 3rem;
   @media screen and (min-width: 720px) {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -15,7 +15,7 @@ export const Container = styled.div`
   div {
     background: var(--shape);
     padding: 1.5rem 2rem;
-    border-radius: 0.25rem;
+    border-radius: var(--default-border-radius);
     color: var(--text-title);
     /* box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.3); */
     header {

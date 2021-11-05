@@ -10,6 +10,10 @@ export const GlobalStyle = createGlobalStyle`
   --green: #33CC95;
   --text-title: #363F5F;
   --text-body: #969CB2;
+  --input-background:#e7e9ee ;
+  --input-border-color:#d7d7d7;
+  --white-text: #FFFFFF;
+  --default-border-radius: 0.25rem;
 }
 *{
   margin: 0;
@@ -59,6 +63,18 @@ button{
   background: var(--background);
   padding: 3rem;
   position: relative;
-  border-radius:0.25rem;
+  border-radius: var(--default-border-radius);
+}
+.react-modal-close{
+  position: absolute;
+  right:1.5rem;
+  top:1.5rem;
+  background: transparent;
+  border:0;
+  transition: filter 0.2s;
+
+  &:hover{
+    filter: brightness(0.6)
+  }
 }
 `;

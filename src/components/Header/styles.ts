@@ -25,7 +25,7 @@ export const Content = styled.div`
     background: var(--blue-light);
     border: 0;
     padding: 2rem;
-    border-radius: 0.3rem;
+    border-radius: var(--default-border-radius);
     transition: filter 0.2s;
     height: unset;
     @media (min-width: 720px) {

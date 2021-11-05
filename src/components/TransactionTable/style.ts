@@ -26,7 +26,7 @@ export const Container = styled.div`
       background: var(--shape);
       font-weight: 400;
       color: var(--text-body);
-      border-radius: 0.25rem;
+      border-radius: var(--default-border-radius);
       @media (min-width: 768px) {
         padding: 1.5rem 2rem;
       }
