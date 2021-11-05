@@ -2,9 +2,15 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   margin-top: -7.3rem;
+  padding: 0 3rem ;
+  @media screen and (min-width: 720px) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    margin-top: -7.3rem;
+  }
 
   div {
     background: var(--shape);

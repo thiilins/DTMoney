@@ -6,20 +6,30 @@ export const Container = styled.div`
     width: 100%;
     border-spacing: 0 0.5rem;
 
+    @media (min-width: 720px) {
+      max-width: 100%;
+    }
+
     th {
       color: var(--text-body);
       font-weight: 500;
-      padding: 1.5rem 2rem;
+      padding: 1.5rem 0.5rem;
       text-align: left;
       line-height: 1.5rem;
+      @media (min-width: 720px) {
+        padding: 1.5rem 2rem;
+      }
     }
     td {
-      padding: 1.5rem 2rem;
+      padding: 1.5rem 0.7rem;
       border: 0;
       background: var(--shape);
       font-weight: 400;
       color: var(--text-body);
       border-radius: 0.25rem;
+      @media (min-width: 768px) {
+        padding: 1.5rem 2rem;
+      }
       &:first-child {
         color: var(--text-title);
       }
