@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/banner-reactJS.png" alt="Dt Money" />
+  <img src="./.github/logo.png" alt="Dt Money" />
 
   &#xa0;
 
@@ -32,9 +32,12 @@
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/thiilins" target="_blank">Autor</a>
+  <br />
 </p>
+  <br />
 
-<br>
+<p align="center"><img  width="800" src="./.github/preview-banner.png" alt="Dt Money" /></p>
+  <br />
 
 ## :dart: Sobre ##
 Aplicação desenvolvida durante o Chapter II da trilha de ReactJS | Ignite - RocketSeat.
@@ -54,6 +57,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [Polished](https://polished.js.org/)
+- [MirageJS](https://miragejs.com/)
  &#xa0;
 
 ## :white_check_mark: Pré requisitos ##
