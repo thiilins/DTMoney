@@ -6,7 +6,7 @@
   <!-- <a href="https://dtmoney.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Dt Money</h1>
+<!-- <h1 align="center">Dt Money</h1> -->
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=04D361&labelColor=000000?color=04D361&style=for-the-badge" alt="PRs welcome!" />
