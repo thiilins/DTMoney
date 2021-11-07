@@ -10,10 +10,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=04D361&labelColor=000000?color=04D361&style=for-the-badge" alt="PRs welcome!" />
-    <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/ignite-dt-money?color=04D361&style=for-the-badge">
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/ignite-dt-money?color=04D361&style=for-the-badge">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/ignite-dt-money?color=04D361&style=for-the-badge">
-  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/ignite-dt-money?color=04D361&style=for-the-badge">
+    <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/dt-money?color=04D361&style=for-the-badge">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/dt-money?color=04D361&style=for-the-badge">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/dt-money?color=04D361&style=for-the-badge">
+  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/dt-money?color=04D361&style=for-the-badge">
 
   
 </p>
