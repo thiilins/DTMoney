@@ -48,8 +48,8 @@ Nela trabalhamos com conceitos básicos do react como componentização, estado,
 ## :sparkles: Funcionalidades ##
 - [x] Inserção de entradas/saidas
 - [x] Cadastro de categorias
-- [ ] Calculo de total de entradas
-- [ ] Calculo de total de saídas
+- [x] Calculo de total de entradas
+- [x] Calculo de total de saídas
 - [x] Calculo de Saldo Restante
  &#xa0;
 
