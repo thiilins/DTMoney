@@ -29,7 +29,8 @@
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0; 
+<a href="#-como-contribuir">Como contribuir</a> &#xa0; |
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/thiilins" target="_blank">Autor</a>
   <br />
@@ -88,6 +89,17 @@ $ yarn start
 
 # O app vai inicializar em <http://localhost:3000>
 ```
+ &#xa0;
+
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
  &#xa0;
 
 ## :memo: Licença ##
