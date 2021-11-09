@@ -76,7 +76,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/thiilins/ignite-dt-money
+$ git clone https://github.com/thiilins/dt-money
 
 # Entre na pasta
 $ cd dt-money
