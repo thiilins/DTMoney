@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <a href="https://tgbr.site/dt_money">Ver demo</a>
+  <a href="https://tgpro.site/dt_money">Ver demo</a>
 </div>
 
 <!-- <h1 align="center">Dt Money</h1> -->
@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <a href="https://tgbr.site/dt_money_layout">Layout</a> &#xa0; | &#xa0; 
+  <a href="https://tgpro.site/dt_money_layout">Layout</a> &#xa0; | &#xa0; 
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
