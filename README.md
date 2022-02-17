@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/logo.png" alt="Dt Money" />
+  <img src="./.github/preview_cover.png" alt="Dt Money" />
 
   &#xa0;
 
@@ -35,9 +35,7 @@
   <a href="https://github.com/thiilins" target="_blank">Autor</a>
   <br />
 </p>
-  <br />
 
-<p align="center"><img  width="800" src="./.github/preview-banner.png" alt="Dt Money" /></p>
   <br />
 
 ## :dart: Sobre ##
