@@ -1,35 +1,34 @@
-<div align="center" id="top"> 
-  <img src="./.github/cover.png" alt="Dt Money" />
+<div align="center" id="top">
+  <img src="./.github/assets/cover.png" alt="Dt Money" />
 
-  &#xa0;
+&#xa0;
 
-  <a href="https://dt-money-puce.vercel.app/">Ver demo</a>
+<a href="https://td-dt-money.vercel.app/">Ver demo</a>
+
 </div>
 
 <!-- <h1 align="center">Dt Money</h1> -->
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=04D361&labelColor=000000?color=04D361&style=for-the-badge" alt="PRs welcome!" />
-    <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/dt-money?color=04D361&style=for-the-badge">
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/dt-money?color=04D361&style=for-the-badge">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/dt-money?color=04D361&style=for-the-badge">
-  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/dt-money?color=04D361&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=FF5858&labelColor=000000?color=FF5858&style=for-the-badge" alt="PRs welcome!" />
+    <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/DTMoney?color=FF5858&style=for-the-badge">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/DTMoney?color=FF5858&style=for-the-badge">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/DTMoney?color=FF5858&style=for-the-badge">
+  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/DTMoney?color=FF5858&style=for-the-badge">
 
-  
 </p>
 
-<h4 align="center"> 
-	<!-- 🚧  Em construção...  🚧 -->
-</h4> 
-
+<h4 align="center">
+ <!-- 🚧  Em construção...  🚧 -->
+</h4>
 
 <p align="center">
-  <a href="https://www.figma.com/file/bhjlC3Rl8o3Fp0Uuy766mJ/dtmoney-Ignite">Layout</a> &#xa0; | &#xa0; 
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="https://www.figma.com/file/bhjlC3Rl8o3Fp0Uuy766mJ/dtmoney-Ignite">Layout</a> &#xa0; | &#xa0;
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0; 
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
 <a href="#-como-contribuir">Como contribuir</a> &#xa0; |
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/thiilins" target="_blank">Autor</a>
@@ -38,21 +37,23 @@
 
   <br />
 
-## :dart: Sobre ##
+## :dart: Sobre
+
 Aplicação desenvolvida durante o Chapter II da trilha de ReactJS.
 Essa aplicação é destinada a facilitar o gerenciamento das finanças pessoais, permitindo a inserção de entradas, saidas e organizando tudo por categorias.
 Nela trabalhamos com conceitos básicos do react como componentização, estado, hooks, etc. Além de trabalhar com consumo de API via axios, formulários dentro do ReactJS, Styled Components e suas funções entre outros conceitos e bibliotecas.
- &#xa0;
+&#xa0;
 
-## :sparkles: Funcionalidades ##
+## :sparkles: Funcionalidades
+
 - [x] Inserção de entradas/saidas
 - [x] Cadastro de categorias
 - [x] Calculo de total de entradas
 - [x] Calculo de total de saídas
 - [x] Calculo de Saldo Restante
- &#xa0;
+      &#xa0;
 
-## :rocket: Tecnologias ##
+## :rocket: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -63,18 +64,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled Components](https://styled-components.com/)
 - [Polished](https://polished.js.org/)
 - [MirageJS](https://miragejs.com/)
- &#xa0;
+  &#xa0;
 
-## :white_check_mark: Pré requisitos ##
+## :white_check_mark: Pré requisitos
 
 Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
- &#xa0;
+&#xa0;
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Começando
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/thiilins/dt-money
+$ git clone https://github.com/thiilins/DTMoney
 
 # Entre na pasta
 $ cd dt-money
@@ -87,7 +88,8 @@ $ yarn start
 
 # O app vai inicializar em <http://localhost:3000>
 ```
- &#xa0;
+
+&#xa0;
 
 ## 🤔 Como contribuir
 
@@ -98,12 +100,11 @@ $ yarn start
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
- &#xa0;
+&#xa0;
 
-## :memo: Licença ##
+## :memo: Licença
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 
 Feito com :heart: por <a href="https://github.com/thiilins" target="_blank">Thiago Lins</a>
 
